@@ -1,0 +1,48 @@
+#main {
+    font-family: "Verdana", "Courier-New", "sans-serif";
+    background: blue;
+    width: 50%; 
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+    color: gray;
+    
+  }
+  
+  #description{
+    font-size: 15px;
+  }
+  
+  #survey-form {
+    text-align: left;
+    font-size: 15px;
+    font-style: normal;  
+    margin: 2em; 
+    }
+  
+  #title {
+     text-align: center;
+  }
+  
+  label{
+    margin: 10px 0px 20px;  
+  }
+  
+  #name, #email, #number {
+    padding: 10px 200px 10px 10px;
+    border-radius: 10px;  
+    text-align: left;  
+  }
+  
+  textarea {
+    padding: 10px 25em 10px 10px;
+    border-radius: 10px;  
+    text-align: left;
+  }
+  
+  #submit {
+    background: green;
+    width: 100px;
+    padding: 20px;
+    margin: auto;
+  }
